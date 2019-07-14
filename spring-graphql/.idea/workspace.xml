@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="3008" />
+    <option name="height" value="1692" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.GraphlEntityApplication">
+    <configuration name="GraphlEntityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graphl-entity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atul.GraphlEntityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphlRepositoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graphl-repository" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atul.GraphlRepositoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphlWebapiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graphl-webapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atul.graphlwebapi.GraphlWebapiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphqlJavaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="graphql-java-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atul.graphqljavaserver.GraphqlJavaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
