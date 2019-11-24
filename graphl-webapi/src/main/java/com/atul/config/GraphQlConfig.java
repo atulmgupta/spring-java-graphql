@@ -1,10 +1,9 @@
 package com.atul.config;
 
-import com.atul.services.user.UserService;
+import com.atul.service.UserService;
 import graphql.GraphQL;
 import graphql.analysis.MaxQueryComplexityInstrumentation;
 import graphql.analysis.MaxQueryDepthInstrumentation;
-import graphql.annotations.AnnotationsSchemaCreator;
 import graphql.execution.batched.BatchedExecutionStrategy;
 import graphql.execution.instrumentation.ChainedInstrumentation;
 import graphql.schema.GraphQLSchema;
@@ -15,7 +14,6 @@ import io.leangen.graphql.metadata.strategy.value.jackson.JacksonValueMapperFact
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import javax.annotation.PostConstruct;
 import java.util.Arrays;
 
 @Configuration

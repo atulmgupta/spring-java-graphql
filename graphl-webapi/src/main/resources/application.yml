@@ -1,18 +1,5 @@
 spring:
   application:
     name: graphql-webapi
-  security:
-    user:
-      name: admin
-      password: admin
-  data:
-    mongodb:
-      database: libor_dev
-      username: libor_dev
-      password: libor_dev
-      port: 27017
-  sleuth:
-    sampler:
-      probability: 1
 server:
   port: 9013

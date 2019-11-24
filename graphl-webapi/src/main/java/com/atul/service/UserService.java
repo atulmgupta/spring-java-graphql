@@ -1,4 +1,4 @@
-package com.atul.services.user;
+package com.atul.service;
 
 import com.atul.entity.User;
 import org.bson.types.ObjectId;
