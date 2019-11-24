@@ -91,7 +91,6 @@
     </dependencyManagement>
     <modules>
         <module>../graphl-entity</module>
-        <module>../graphl-repository</module>
         <module>../graphql-java-server</module>
         <module>../graphl-webapi</module>
     </modules>

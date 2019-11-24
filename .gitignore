@@ -21,3 +21,20 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+spring-graphql/.project
+spring-graphql/.idea/uiDesigner.xml
+.DS_Store
+
+graphl-repository/mvnw
+
+spring-graphql/.classpath
+
+spring-graphql/.factorypath
+
+spring-graphql/.idea/
+
+spring-graphql/.settings/
+
+graphl-repository/.mvn/wrapper/
+
+*.cmd
